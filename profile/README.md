@@ -1,4 +1,4 @@
-## Welcome to Libra
+# Welcome to Libra
 
 Libra is dedicated to creating an open, extensible music service that empowers users to enjoy music the way they want.
 
@@ -7,7 +7,7 @@ Our main projects include:
 - **LibraFlow** The main frontend, offering a beautiful and accessible user interface for all platforms.
 - **LibraTUI**: A terminal-based user interface for those who prefer command-line interactions.
 
-### Roadmap
+## Roadmap
 
 Some of the project's future goals include:
 - A simple but powerful backend & API
